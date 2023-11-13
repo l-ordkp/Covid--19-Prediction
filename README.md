@@ -48,5 +48,5 @@ The dataset used for this project contains information about confirmed cases and
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your_username/COVID-19-Prediction.git
+git clone https://github.com/l-ordkp/COVID-19-Prediction.git
 cd COVID-19-Prediction
